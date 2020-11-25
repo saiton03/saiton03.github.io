@@ -1,0 +1,19 @@
+[{
+    "title": "About",
+    "date": "",
+    "description": "管理人の自己紹介",
+    "body": "Basic Name: saiton03\nBirth Year: 1997\nEducation: 関東の大学院修士1年\nMajor: 情報工学\nEngineer Experience フューチャー株式会社 Engineer Camp [2020/8~9] スマート工場のAPIサーバのバックエンドなどをGo言語で開発した。JWTトークンを用いた認可や、AWSのLambdaや、DynamoDBなどのサーバレス技術も学んだ。\n4週間開発チームに配属されて、チームでの開発に取り組んだ。フューチャー技術ブログにあるインターン参加記事はこちら。\nCertificate  応用情報技術者 AtCoder 青色(saiton03) AtCoder社アルゴリズム実技検定 上級  Hobby  競技プログラミング 旅行 ボードゲーム  ",
+    "ref": "/about/"
+  },{
+    "title": "はじめに",
+    "date": "",
+    "description": "ブログを作成しました",
+    "body": "saiton03と申します。周りの方々に影響されて主に技術のブログをはじめました。\nブログではgithub+hugoを用いて作成しました。後日はじめ方を記事にできればと思います。\nブログのタイトルの由来について、私は苗字が斎藤ですが旅行が趣味の一つですが、昔の英会話本では海外旅行の入国審査で渡航目的を聞かれたときに「斎藤寝具(sightseeing」と言おうと書いてあったそうです。そこから「斎藤寝具店」にしました。俳優の斎藤工さんが「斎藤工務店」でブログをやっていらっしゃるのと似たようなものです。\nよろしくお願いいたします。\n",
+    "ref": "/blog/201125intro/"
+  },{
+    "title": "Contact",
+    "date": "",
+    "description": "",
+    "body": "",
+    "ref": "/contact/"
+  }]

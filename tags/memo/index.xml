@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>memo on 斎藤寝具店</title>
+    <link>https://saiton03.github.io/tags/memo/</link>
+    <description>Recent content in memo on 斎藤寝具店</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://saiton03.github.io/tags/memo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>はじめに</title>
+      <link>https://saiton03.github.io/blog/201125intro/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saiton03.github.io/blog/201125intro/</guid>
+      <description>saiton03と申します。周りの方々に影響されて主に技術のブログをはじめました。
+ブログではgithub+hugoを用いて作成しました。後日はじめ方を記事にできればと思います。
+ブログのタイトルの由来について、私は苗字が斎藤ですが旅行が趣味の一つですが、昔の英会話本では海外旅行の入国審査で渡航目的を聞かれたときに「斎藤寝具(sightseeing」と言おうと書いてあったそうです。そこから「斎藤寝具店」にしました。俳優の斎藤工さんが「斎藤工務店」でブログをやっていらっしゃるのと似たようなものです。
+よろしくお願いいたします。</description>
+    </item>
+    
+  </channel>
+</rss>
